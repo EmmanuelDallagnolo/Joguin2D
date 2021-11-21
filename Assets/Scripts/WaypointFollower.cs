@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class WaypointFollower : MonoBehaviour
 {
-    // Update is called once per frameasdadas
+    // Update is called once per frame
     void Update()
     {
         
